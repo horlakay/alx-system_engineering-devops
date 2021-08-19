@@ -1,2 +1,2 @@
 #!/bin/bash
-file -e elf /tmp/iamafile
+file -z elf /tmp/iamafile
